@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 peppermint ice cream
 soft pretzels
 celery
 
 
+=======
+Amadeus 
+Clue
+Fifth element
+>>>>>>> movies
